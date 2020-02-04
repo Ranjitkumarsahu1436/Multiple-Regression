@@ -7,11 +7,15 @@ In general, the multiple regression equation of Y on X1, X2, …, Xk is given by
 Y = b0 + b1 X1 + b2 X2 + …………………… + bk Xk
 
 y = dependent variable
+
 x = expanatory variables
+
 b0 = y-intercept (constant term)
+
 bk = slope coefficients for each explanatory variable
+
 ϵ = the model’s error term (also known as the residuals)
-​	
+
 
 
 
