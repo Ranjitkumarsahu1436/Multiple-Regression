@@ -2,6 +2,12 @@
 
 Multiple regression is a statistical technique that aims to predict a variable of interest from several other variables. The variable that's predicted is known as the criterion. The variables that predict the criterion are known as predictors.
 
+In general, the multiple regression equation of Y on X1, X2, …, Xk is given by:
+
+Y = b0 + b1 X1 + b2 X2 + …………………… + bk Xk
+
+
+
 The multiple regression model is based on the following assumptions:
 
  #There is a linear relationship between the dependent variables and the independent variables.
