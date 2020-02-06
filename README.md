@@ -27,3 +27,9 @@ The multiple regression model is based on the following assumptions:
  #Residuals should be normally distributed with a mean of 0 and variance σ.
  
  The coefficient of determination (R-squared) is a statistical metric that is used to measure how much of the variation in outcome can be explained by the variation in the independent variables. R2 always increases as more predictors are added to the MLR model even though the predictors may not be related to the outcome variable.
+ 
+Multiple linear regression (MLR), also known simply as multiple regression, is a statistical technique that uses several explanatory variables to predict the outcome of a response variable.
+
+Multiple regression is an extension of linear (OLS) regression that uses just one explanatory variable.
+MLR is used extensively in econometrics and financial inference.
+
